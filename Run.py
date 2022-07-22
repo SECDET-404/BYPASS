@@ -1,4 +1,4 @@
 import os, platform
 os.system('git pull')
-import HI
+import HI2
 Adnan()
