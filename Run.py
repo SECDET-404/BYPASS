@@ -1,4 +1,4 @@
 import os, platform
 os.system('git pull')
-from bypass import Adnan
+from BYPASS import Adnan
 Adnan()
